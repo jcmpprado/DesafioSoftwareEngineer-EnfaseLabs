@@ -1,10 +1,15 @@
+import NavBar from './Components/NavBar';
+import Header from './Components/Header';
 import './global.css'
 
 
 function App() {
   return (
     <div className="App">
-      <h1> Hello equipe da Enfase Lab!</h1>
+      <>
+      <NavBar />
+      <Header />
+      </>
     </div>
   );
 }

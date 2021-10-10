@@ -7,4 +7,32 @@
 
 .NavBar {
     background-color: #200741;
+    display: flex;
+    justify-content: space-between;
 }
+
+.buttonContainer {
+    font-size:x-large;
+    padding: 20px;
+}
+
+.buttonContainer a {
+    font-size:large;    
+    border:2px solid #FE2A59;
+    height: 40px;
+    padding: 10px;
+    border-radius: 3px;
+    width: 100%;
+    color: #FE2A59;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.buttonContainer a:hover {
+    background-color: #FE2A59;
+    color: #fff;
+    transition: 300ms;
+}
+

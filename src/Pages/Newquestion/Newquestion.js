@@ -3,7 +3,7 @@ import './style.css';
 function NewQuestion (){
     return(
         <div className="container">
-            <p>Adicione aqui uma nova questão. </p>
+            <h3>Adicione aqui uma questão. </h3>
             <form>
                 <input
                     id="question"
@@ -36,7 +36,7 @@ function NewQuestion (){
                     placeholder="D"
                 />
                 <div className="checkContainer">
-                    <h5>Selecione a resposta correta.</h5>
+                    <h5>Selecione a resposta correta:</h5>
                     <input
                     id="A"
                     // value={a}

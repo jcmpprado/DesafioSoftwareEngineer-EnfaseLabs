@@ -41,9 +41,11 @@
     align-items: center;
     margin-left: 25%;
     max-height: auto;
+    padding: 5px;
 }
 
 .checkContainer input {
+    width: 28px;
     /*flex-direction: column;
     justify-content: center;
     align-items: baseline; */

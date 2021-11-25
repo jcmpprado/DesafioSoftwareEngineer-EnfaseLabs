@@ -13,18 +13,26 @@ Desafio prático elaborado durante o processo seletivo para a vaga de Software E
 ###### Demonstração :arrow_forward:
 
 ------
+![printHome](https://user-images.githubusercontent.com/87131837/143376845-36e8d26c-ff2f-42ed-a92b-89e3c64e9dd2.jpg)
 
 
 
 ###### Funcionalidades :gear:
 
 ------
-
+- [x] Responsivo
 
 
 ###### Tecnologias :hammer_and_wrench:
 
 ------
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [React](https://pt-br.reactjs.org/)
+* [Relay](https://relay.dev/)
+* [GraphQl](https://graphql.org/)
+* [Nodejs](https://nodejs.org/en/)
 
 
 
